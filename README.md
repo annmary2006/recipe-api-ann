@@ -10,7 +10,7 @@ This API allows users to add and view recipes. It also comes with a basic fronte
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/annmary2006/recipe-api-ann.git
    cd recipe-api-ann
    ```
 
@@ -37,7 +37,7 @@ This API allows users to add and view recipes. It also comes with a basic fronte
 ## 🌐 Deployed API URL
 
 Your live API is hosted on **Render**:
-👉 []()
+👉 [https://recipe-api-ann.onrender.com/](https://recipe-api-ann.onrender.com/)
 
 ---
 
