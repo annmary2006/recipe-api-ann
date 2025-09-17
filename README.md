@@ -10,8 +10,8 @@ This API allows users to add and view recipes. It also comes with a basic fronte
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rinu143/recipe-api-rinu.git
-   cd recipe-api-rinu
+   git clone 
+   cd recipe-api-ann
    ```
 
 2. Install dependencies:
@@ -29,7 +29,7 @@ This API allows users to add and view recipes. It also comes with a basic fronte
 4. Open your browser and go to:
 
    ```
-   http://localhost:5000
+   http://localhost:5000 or http://localhost:3000
    ```
 
 ---
@@ -37,7 +37,7 @@ This API allows users to add and view recipes. It also comes with a basic fronte
 ## 🌐 Deployed API URL
 
 Your live API is hosted on **Render**:
-👉 [https://recipe-api-rinu.onrender.com](https://recipe-api-rinu.onrender.com)
+👉 []()
 
 ---
 

@@ -1,10 +1,10 @@
 [
   {
-    "id": 1757926036198,
-    "title": "curry",
-    "ingredients": "potato,tomato",
-    "instructions": "j,cb",
-    "cookTime": "6 min",
+    "id": 1694781256789,
+    "title": "Tomato Soup",
+    "ingredients": ["Tomatoes", "Onion", "Garlic", "Salt"],
+    "instructions": "Boil tomatoes with onion and garlic, blend, and season.",
+    "cookTime": "15 minutes",
     "difficulty": "medium"
   }
 ]

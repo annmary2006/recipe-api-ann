@@ -1,4 +1,4 @@
-const API_URL = "https://recipe-api-rinu.onrender.com/api/recipes";
+const API_URL = "/api/recipes";
 
 const recipeList = document.getElementById("recipeList");
 const form = document.getElementById("recipeForm");
